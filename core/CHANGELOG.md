@@ -10,4 +10,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Changed
 - Keep a separate changelog for unit splitter core
- 
+
+### Fixed
+- Entering a large integer will no longer cause the application to panic
